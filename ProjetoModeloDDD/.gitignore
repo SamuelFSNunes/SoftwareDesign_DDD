@@ -1,0 +1,36 @@
+# Ignorar arquivos temporários gerados pelo Visual Studio
+.vs/
+/bin/
+/obj/
+
+# Ignorar arquivos de compilação
+*.dll
+*.exe
+
+# Ignorar arquivos de publicação
+publish/
+
+# Ignorar arquivos de dependências NuGet
+packages/
+
+# Ignorar arquivos de histórico de testes
+TestResults/
+
+# Ignorar arquivos de configuração específicos do usuário
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de exceção específicos do Windows
+Thumbs.db
+ehthumbs.db
+
+# Ignorar arquivos de saída de análise
+*.csproj.user
+
+# Ignorar arquivos de cache e dados salvos localmente
+*.cache
+*.local
