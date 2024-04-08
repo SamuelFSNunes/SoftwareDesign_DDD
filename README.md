@@ -28,7 +28,7 @@ Diferente das entidades, os objetos de valor são elementos imutáveis que não 
 Os agregados são **conjuntos de entidades e objetos de valor que são tratados como uma única unidade coesa**. Cada agregado tem uma raiz, que é a única entrada para acessar ou manipular o agregado como um todo, o que ajuda a manter a consistência e a integridade do domínio. 
 
 - ### Repositórios 
-Os repositórios são responsáveis pela persistência e recuperação de entidades. **Eles oferecem uma abstração que permite ao código de domínio trabalhar com objetos do domínio**, sem se preocupar com os detalhes de armazenamento e recuperação.
+Os repositórios são responsáveis pela persistência e recuperação de entidades. **Eles oferecem uma abstração que permite ao código de domínio trabalhar com objetos do domínio**, sem se preocupar com os detalhes de armazenamento e recuperação. Utilizado principalmente para administrar regras de negócio.
 
 - ### Serviços de domínio 
 Os serviços de domínio encapsulam lógica de negócios que não se encaixa facilmente nas entidades ou agregados. **Eles são responsáveis por operações que envolvem múltiplos elementos do domínio** ou que não são diretamente associados a um único objeto. 
