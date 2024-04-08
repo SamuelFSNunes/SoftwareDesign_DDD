@@ -1,5 +1,5 @@
 # SoftwareDesign_DDD
-![image](https://github.com/SamuelFSNunes/SoftwareDesign_DDD/assets/123522471/a913818d-5511-44d0-9180-a03ae176eeb5)
+![image](https://github.com/SamuelFSNunes/SoftwareDesign_DDD/assets/123522471/58d44945-c111-491d-a629-a8b626ef6c73)
 
 ### O que é?
 Antigamente no desenvolvimento de softwares muitos projetos eram **orientados a tecnologia**, e comunicação entre especialista de negócios e os desenvolvedores, o que resultava em muitos erros ou mal-entendidos criando muitos erros ou sistema não escaláveis.Para solucionar essa dor nasceu o modelo **DDD (Domain Driven Domain)**. Ou seja, o conceito surgiu para **alinhar o software às complexas regras de negócios**.
